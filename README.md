@@ -51,8 +51,7 @@ http://localhost:8000/docs`
 
 Desafio superado: Transformei projeto Linux-centrado em Windows-native estudando sys.path, PowerShell $env, e FastAPI importlib!
 
-✨ Contribuições
-README completo
+## Contribuições
 
 Windows PYTHONPATH fix
 
